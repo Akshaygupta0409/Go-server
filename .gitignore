@@ -1,1 +1,3 @@
 go-server
+.vscode/
+.env
